@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Profile Image / Banner -->
-<img width="120" src="https://raw.githubusercontent.com/Tylxr-r/Tylxr-r/main/assets/banner.png" />
-
 <h1>🖤 Tylxr-r</h1>
 <p>Python Developer</p>
 
