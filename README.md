@@ -1,6 +1,6 @@
 # 🖤 Tylxr-r
 
-Python Developer
+Python Dev
 
 ---
 
