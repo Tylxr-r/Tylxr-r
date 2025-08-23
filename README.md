@@ -1,26 +1,46 @@
 <div align="center">
 
-  <h1 style="margin-bottom: 0;">🖤 Tylxr-r</h1>
-  <p style="margin-top: 5px;">Python Developer</p>
+<!-- Profile Image / Banner -->
+<img width="120" src="https://raw.githubusercontent.com/Tylxr-r/Tylxr-r/main/assets/banner.png" />
 
-  <hr style="border:1px solid #000; width:50%; margin:20px auto;">
+<h1>🖤 Tylxr-r</h1>
+<p>Python Developer</p>
 
-  <h2>Skills</h2>
-  <p>Python | Git</p>
+<!-- GitHub Stats / Followers -->
+[![GitHub Followers](https://img.shields.io/github/followers/Tylxr-r?label=Follow&style=social)](https://github.com/Tylxr-r)
+[![GitHub Stars](https://img.shields.io/github/stars/Tylxr-r?style=social)](https://github.com/Tylxr-r)
 
-  <hr style="border:1px solid #000; width:50%; margin:20px auto;">
+</div>
 
-  <h2>GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tylxr-r&show_icons=true&hide_title=true&hide=prs&theme=graywhite" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tylxr-r&layout=compact&theme=graywhite" alt="Top Languages" />
-  </p>
+---
 
-  <hr style="border:1px solid #000; width:50%; margin:20px auto;">
+<div align="center">
 
-  <h2>Connect with Me</h2>
-  <p>Discord: <strong>bwmpa</strong></p>
+<h2>Skills</h2>
+
+| Programming |
+| ----------- |
+| Python, Git |
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+| Stats | Top Languages |
+| ----- | ------------- |
+| ![Tylxr-r GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tylxr-r&show_icons=true&hide_title=true&hide=prs&theme=graywhite&hide_border=true) | ![Tylxr-r Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylxr-r&layout=compact&theme=graywhite&hide_border=true) |
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Connect with Me</h2>
+Discord: <strong>bwmpa</strong>
 
 </div>
