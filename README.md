@@ -6,7 +6,7 @@
 
 <p align="center">
 
-### ⚡ Stats
+### Stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Tylxr-r&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tylxr-r&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
@@ -15,8 +15,7 @@
 
 <p align="center">
 
-### 💬 Connect
+### Connect
 <br>
 [![Discord](https://img.shields.io/badge/Discord-bwmpa-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bwmpa)
-
 </p>
