@@ -1,9 +1,5 @@
 <p align="center">
 
-Tylxr-r
-
-</p>
-
 <p align="center">
 
 ### Stats
