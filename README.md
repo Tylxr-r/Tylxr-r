@@ -17,5 +17,6 @@
 
 ### Connect
 <br>
-[![Discord](https://img.shields.io/badge/Discord-bwmpa-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bwmpa)
+[![Discord](https://img.shields.io/badge/Discord-bwmpa-5865F2?style=flat&logo=discord&logoColor=white)](#)
+
 </p>
